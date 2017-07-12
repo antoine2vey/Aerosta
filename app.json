@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "18.0.0",
+    "orientation": "portrait",
+    "icon": "./app-icon.png",
+    "version": "1.0.0",
+    "slug": "aerosta",
+    "sdkVersion": "18.0.0",
+    "ios": {
+      "bundleIdentifier": "com.shaark.aerosta"
+    },
+    "android": {
+      "package": "com.shaark.aerosta"
+    }
+  },
+}
